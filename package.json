@@ -1,5 +1,5 @@
 {
-  "name": "latihan1",
+  "name": "CAR MANAGEMENT API",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "model-cars": "npx sequelize-cli model:generate --name Cars --attributes name:string,price:string,size:string,available:boolean,createdBy:string,updatedBy:string,deletedBy:string"
   },
   "keywords": [],
-  "author": "",
+  "author": "Citra Meida Antika",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
